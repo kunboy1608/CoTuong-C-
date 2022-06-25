@@ -10,3 +10,6 @@
   <li>Display: FHD (1920x1080), Scale: 125%</li>
   <li>Library: msvcp140.dll, ucrtbased.dll, vcruntime140.dll</li>
 </ul>
+<h2>Preview</h2>
+
+![Preview-Image](img/preview.png)
