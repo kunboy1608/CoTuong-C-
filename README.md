@@ -1,7 +1,7 @@
 <h1>Game Co Tuong</h1>
 <h2>Details</h2>
 <ul>
-  <li>Owner: Hoang Dinh Phu</li>
+  <li>Owner: <a href="https://github.com/kunboy1608/">Hoang Dinh Phu</a></li>
   <li>Programming Language: C++</li>
 </ul>
 <h2>Requirements</h2>
